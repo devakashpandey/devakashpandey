@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">A Passionate Front-end Developer From India</h3>
-<img align="right" alt="coding" width="350px" src="https://tenor.com/view/programmer-gif-19019116" >
+<div class="tenor-gif-embed" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
 
