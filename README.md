@@ -6,7 +6,7 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/devakky04" target="blank"><img src="https://img.shields.io/twitter/follow/devakky04?logo=twitter&style=for-the-badge" alt="devakky04" /></a> </p>
 
-- 🔭 I’m currently working on **Facebook & Codepen Clone**
+- 🔭 I’m currently working on a project **Facebook & Codepen Clone**
 
 - 🌱 I’m currently learning **MERN , UI/UX**
 
