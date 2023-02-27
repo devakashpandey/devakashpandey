@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
-<h3 align="center">A Passionate Front-end Developer From India & on The Way Of MERN Stack Development.</h3>
+<h3 align="center">A Passionate Front-end Developer From India & On The Way Of MERN Stack Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN , UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://devakashpandey.netlify.app](https://devakashpandey.netlify.app)
+- 👨‍💻 My Portfolio & Projects are here [https://devakashpandey.netlify.app](https://devakashpandey.netlify.app)
 
 - 💬 Ask me about **Javascript, React**
 
