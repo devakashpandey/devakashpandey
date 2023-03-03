@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">A Passionate Front-end Developer From India & On The Way Of MERN Stack Development.A good learner and always excited to learn new things in terms of technology.
 </h3>
-<img alt="Coder GIF" height=250 width=350 align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<div align="center"
+<img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
 <br/>
