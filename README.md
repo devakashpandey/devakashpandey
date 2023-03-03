@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">A Passionate Front-end Developer From India & On The Way Of MERN Stack Development.A good learner and always excited to learn new things in terms of technology.
 </h3>
-<div align="center"
+<div align="center">
 <img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </div>
 
@@ -19,14 +19,14 @@
  </div>
  
  <h4 align="center">
-  🌱 I’m currently learning **MERN , UI/UX**
+  🌱 I’m currently learning : UI/UX , WEB 3.0
 </h4>
  
  <h4 align="center"> 
-  👨‍💻 My Portfolio & Projects are here : https://devakashpandey.netlify.app
+  👨‍💻 My Portfolio & Projects are here: https://devakashpandey.netlify.app
 </h4>
 
-<h4 align="center"> 📫 How to reach me </h4>
+<h4 align="center"> 📫 How to reach me: </h4>
  <p align="center">
     <a target="_blank" href="mailto:developerakky@gmail.com"><img src="https://img.shields.io/badge/developerakky@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
