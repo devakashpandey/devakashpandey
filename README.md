@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">A Passionate Front-end Developer From India & On The Way Of MERN Stack Development.A good learner and always excited to learn new things in terms of technology.
 </h3>
-<img alt="Coder GIF" height=250 width=350 align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
 <br/>
-<p align="left"> <a href="https://twitter.com/devakky04" target="blank"><img src="https://img.shields.io/twitter/follow/devakky04?logo=twitter&style=for-the-badge" alt="devakky04" /></a> </p>
+<p align="center"> <a href="https://twitter.com/devakky04" target="blank"><img src="https://img.shields.io/twitter/follow/devakky04?logo=twitter&style=for-the-badge" alt="devakky04" /></a> </p>
 
 <p align="center"> 
 <h3 align="center"> 💬 Ask me about</h3>
@@ -16,20 +16,20 @@
 
  </div>
  
- <h3 align="center">
+ <h4 align="center">
   🌱 I’m currently learning **MERN , UI/UX**
-</h3>
+</h4>
  
- <h3 align="center"> 
-  👨‍💻 My Portfolio & Projects are here [https://devakashpandey.netlify.app](https://devakashpandey.netlify.app)
-</h3>
+ <h4 align="center"> 
+  👨‍💻 My Portfolio & Projects are here : https://devakashpandey.netlify.app
+</h4>
 
-<h3 align="center"> 📫 How to reach me </h3>
+<h4 align="center"> 📫 How to reach me </h4>
  <p align="center">
     <a target="_blank" href="mailto:developerakky@gmail.com"><img src="https://img.shields.io/badge/developerakky@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://twitter.com/devakky04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devakky04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devakashpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devakashpandey" height="30" width="40" /></a>
