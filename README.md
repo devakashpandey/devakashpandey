@@ -24,7 +24,7 @@
 </h4>
  
  <h4 align="center"> 
-  👨‍💻 My Portfolio & Projects are here: https://devakashpandey.netlify.app
+  👨‍💻 My Portfolio & Projects are here: https://iamakashpandey.netlify.app
 </h4>
 
 <h4 align="center"> 📫 How to reach me: </h4>
