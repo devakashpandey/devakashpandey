@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
-<h3 align="center">A Front-End Developer With Passion To Create Beautiful Websites Loaded With Features. I Love To Work On Web Application & Making New Designs. A Good Learner And Always Excited To Learn New Things In Terms Of Technology.
+<h3 align="center">A Front-End Developer with passion to create and design beautiful websites. Proficient in HTML, CSS, JavaScript, React JS, Redux & Tailwind CSS. I like to be productive always to maximize my outcome and learn more in less time. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
 </h3>
 <div align="center">
 <img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
