@@ -21,7 +21,7 @@
  </div>
  
  <h4 align="center">
-  🌱 I love to work on web applications & making new designs. Pursing new expressions through experiments and thoughts.
+  🌱 I believe web design can be more diverse & inspiring.
 </h4>
  
  <h4 align="center"> 
