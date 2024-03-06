@@ -1,3 +1,6 @@
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
+
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">A Front-End Developer with passion to create and design beautiful websites. Proficient in HTML, CSS, JavaScript, React JS, Redux & Tailwind CSS. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
 </h3>
@@ -25,7 +28,6 @@
 </div>
 </br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
 <br/>
 
 <p align="center">
