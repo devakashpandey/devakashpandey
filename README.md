@@ -52,22 +52,15 @@ currently_learning: ["Next JS, Node/Express, and TypeScript"]
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<h4 align="center"> 📫 How to reach me: </h4>
- <p align="center">
-    <a target="_blank" href="mailto:developerakky@gmail.com"><img src="https://img.shields.io/badge/developerakky@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
-
  <h4 align="center">:mailbox: Reach me out!</h4>
 
 <div align="center">
-    
-    
+       
 [![Twitter Badge](https://img.shields.io/badge/-@developerakky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/developerakky)](https://twitter.com/developerakky) 
 [![Mail Badge](https://img.shields.io/badge/-First_Class_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCubPtZ95_KFSuvYe55qzouw) 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-rudnyi/) 
-[![Mail Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/maksym_rudnyi/) 
-[![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rudik.programer@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Akash_Pandey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakashpandey//) 
+[![Mail Badge](https://img.shields.io/badge/-@developerakky-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/developerakky/) 
+[![Mail Badge](https://img.shields.io/badge/-Akash_Pandey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:developerakky@gmail.com)
 
 </div>
 
