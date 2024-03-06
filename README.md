@@ -12,17 +12,37 @@
 <p align="center"> <a href="https://twitter.com/devakky04" target="_blank"><img src="https://img.shields.io/twitter/follow/devakky04?logo=twitter&style=for-the-badge" alt="devakky04" /></a> </p>
 
 <p align="center"> 
-<h3 align="center"> 💬 Ask me about</h3>
-   <div align="center">
- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
- </div>
- 
- <h4 align="center">
-  🌱 I believe web design can be more diverse & inspiring.
-</h4>
+```yam
+name: Akash Pandey
+located_in: Bihar, India
+current_job: FrontEnd Developer
+education:
+  [
+    "Self-Taught Developer",
+    "Bachelor's in BCA",
+  ]
+company: Trando
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Coding",
+    "Editing",
+    "UI/UX",
+    "Playing Games",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Front-End Developer"
+    "Intern - HTML , CSS ,JS With Anjular JS ",
+    "Intern - JS ,Tailwind CSS & React JS with its Library",
+  ]
+  
+currently_learning: ["Next JS, Node/Express, and TypeScript"]
+2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
  
  <h4 align="center"> 
   👨‍💻 My Portfolio & Projects are here: https://iamakashpandey.netlify.app
