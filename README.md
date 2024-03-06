@@ -3,7 +3,7 @@
 </h3>
 <br>
 <div align="center">
-<img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<!-- <img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
 </div>
 </br>
 
