@@ -16,87 +16,6 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
-  
---- 
-
----
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
-  
----
-
-  
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```yam
 name: Akash Pandey
 located_in: Bihar, India
 current_job: FrontEnd Developer
@@ -128,7 +47,8 @@ currently_learning: ["Next JS, Node/Express, and TypeScript"]
 
 ```
   
----  
+--- 
+ 
  
  <h4 align="center"> 
   👨‍💻 My Portfolio & Projects are here: https://iamakashpandey.netlify.app
