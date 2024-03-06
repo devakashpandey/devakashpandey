@@ -27,7 +27,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
 <br/>
-<p align="center"> <a href="https://twitter.com/devakky04" target="_blank"><img src="https://img.shields.io/twitter/follow/devakky04?logo=twitter&style=for-the-badge" alt="devakky04" /></a> </p>
 
 <p align="center">
 
