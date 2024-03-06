@@ -43,6 +43,10 @@ technical_background:
   
 currently_learning: ["Next JS, Node/Express, and TypeScript"]
 2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+
+```
+  
+---  
  
  <h4 align="center"> 
   👨‍💻 My Portfolio & Projects are here: https://iamakashpandey.netlify.app
