@@ -73,14 +73,6 @@ currently_learning: ["Next JS, Node/Express, and TypeScript"]
 
 </div>
 
-
-<h4 align="center">Connect with me:</h4>
-<p align="center">
-<a href="https://twitter.com/devakky04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devakky04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devakashpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devakashpandey" height="30" width="40" /></a>
-<a href="https://instagram.com/codingwithakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingwithakash" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devakashpandey&show_icons=true&locale=en&layout=compact" alt="devakashpandey" /></p>
