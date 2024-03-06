@@ -69,7 +69,7 @@ currently_learning: ["Next JS, Node/Express, and TypeScript"]
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devakashpandey&show_icons=true&locale=en&layout=compact" alt="devakashpandey" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-devakashpandey.vercel.app/api?username=devakashpandey&show_icons=true&rank_icon=github&border_radius=10" alt="devakashpandey" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devakashpandey&show_icons=true&rank_icon=github&border_radius=10" alt="devakashpandey" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devakashpandey&" alt="devakashpandey" /></p>
 
