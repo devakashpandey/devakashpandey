@@ -29,6 +29,8 @@
 <br/>
 <p align="center"> <a href="https://twitter.com/devakky04" target="_blank"><img src="https://img.shields.io/twitter/follow/devakky04?logo=twitter&style=for-the-badge" alt="devakky04" /></a> </p>
 
+<p align="center">
+
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -66,6 +68,8 @@ currently_learning: ["Next JS, Node/Express, and TypeScript"]
 ```
   
 --- 
+
+</p>
  
  
 <h3 align="center">Languages and Tools:</h3>
@@ -76,3 +80,7 @@ currently_learning: ["Next JS, Node/Express, and TypeScript"]
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devakashpandey&show_icons=true&locale=en" alt="devakashpandey" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devakashpandey&" alt="devakashpandey" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
