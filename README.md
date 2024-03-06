@@ -43,12 +43,6 @@ fields_of_interests:
     "Playing Games",
     "DevOps",
   ]
-technical_background:
-  [
-    "Front-End Developer"
-    "Intern - HTML , CSS ,JS With Anjular JS ",
-    "Intern - JS ,Tailwind CSS & React JS with its Library",
-  ]
   
 currently_learning: ["Next JS, Node/Express, and TypeScript"]
 2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
