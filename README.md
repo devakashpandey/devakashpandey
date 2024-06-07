@@ -26,13 +26,13 @@
 ```yaml
 name: Akash Pandey
 located_in: Bihar, India
-current_job: FrontEnd Developer
+current_job: Front-End Developer
 education:
   [
     "Self-Taught Developer",
     "Bachelor's in BCA",
   ]
-company: Trando
+company: SD Campus
 
 fields_of_interests:
   [
