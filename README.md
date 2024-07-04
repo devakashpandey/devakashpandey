@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+Front-End+Developer;+Based+In+Bihar+India" />
 </h1>
 
-<h3 align="center">A Front-End Developer with passion to create and design beautiful websites. Proficient in HTML, CSS, JavaScript, React JS, Redux & Tailwind CSS. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
+<h3 align="center">A Front-End Developer with passion to create and design beautiful websites. Proficient in JavaScript, React JS, Next Js, TypeScript, Redux & Tailwind CSS. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
 </h3>
 
  <h4 align="center"> 
