@@ -56,10 +56,10 @@ currently_learning: ["Next JS, Node/Express, and TypeScript"]
 
 <div align="center">
        
-[![Twitter Badge](https://img.shields.io/badge/-@developerakky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/developerakky)](https://twitter.com/developerakky) 
-[![Mail Badge](https://img.shields.io/badge/-First_Class_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCubPtZ95_KFSuvYe55qzouw) 
+[![Twitter Badge](https://img.shields.io/badge/-@akky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akky)](https://twitter.com/akky) 
+[![Mail Badge](https://img.shields.io/badge/-First_Class_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@firstclasscode) 
 [![Linkedin Badge](https://img.shields.io/badge/-Akash_Pandey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakashpandey//) 
-[![Mail Badge](https://img.shields.io/badge/-@developerakky-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/developerakky/) 
+[![Mail Badge](https://img.shields.io/badge/-@firstclasscode-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/firstclasscode/) 
 [![Mail Badge](https://img.shields.io/badge/-Akash_Pandey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:developerakky@gmail.com)
 
 </div>
