@@ -74,7 +74,7 @@ currently_learning: ["Next JS, TypeScript , AI Automation, Animation, 3D Model"]
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
-[![AI Badge](https://img.shields.io/badge/-AI-06B6D4?style=for-the-badge&labelColor=black&logo=ai&logoColor=white)](#)
+[![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&labelColor=black&logo=openai&logoColor=white)](#)
 
 
 
