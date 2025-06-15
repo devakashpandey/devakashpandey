@@ -72,10 +72,10 @@ currently_learning: ["Next JS, TypeScript , AI Automation, Animation, 3D Model"]
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
-[![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&labelColor=black&logo=openai&logoColor=white)](#)
+[![AI Badge](https://img.shields.io/badge/-AI-06B6D4?style=for-the-badge&labelColor=black&logo=ai&logoColor=white)](#)
+
 
 
 </div>
