@@ -13,6 +13,21 @@
   👨‍💻 My Portfolio & Projects are here: https://iamakashpandey.netlify.app
 </h4>
 
+<h4 align="center">Top Technologies</h4>
+
+<div align="center">
+    
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
+[![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
+[![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&labelColor=black&logo=openai&logoColor=white)](#)
+
+
+
+</div>
+
 
 <div align="center">
 <!-- <img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
@@ -65,20 +80,6 @@ currently_learning: ["Next JS, TypeScript , AI Automation, Animation, 3D Model"]
 </div>
 
 
-<h4 align="center">Top Technologies</h4>
-
-<div align="center">
-    
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
-[![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
-[![OpenAI Badge](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&labelColor=black&logo=openai&logoColor=white)](#)
-
-
-
-</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
