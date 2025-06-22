@@ -10,7 +10,7 @@
 </h3>
 
  <h4 align="center"> 
-  👨‍💻 My Portfolio : https://iamakashpandey.netlify.app
+  👨‍💻 My Portfolio : https://developerakashpandey.vercel.app
 </h4>
 
 <h4 align="center">Top Technologies</h4>
