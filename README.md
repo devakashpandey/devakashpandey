@@ -59,7 +59,7 @@ fields_of_interests:
    "AI Automation & Animation"
   ]
   
-currently_learning: ["Next JS, TypeScript , AI Automation, Animation, 3D Model"]
+currently_learning: ["Next JS, AI Automation, 3D Model"]
 2025 Goals: ["Create 5 Best Real world use Projects and learn at least 5 new Technologies."]
 ```
 </p>
