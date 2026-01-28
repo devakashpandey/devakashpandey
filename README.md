@@ -41,13 +41,13 @@
 ```yaml
 name: Akash Pandey
 located_in: Bihar, India
-current_job: Frontend Developer
+current_job: Software Developer
 education:
   [
     "Self-Taught Developer",
     "Bachelor's in BCA",
   ]
-company: Fictive Box
+company: QuicHub Innovations
 
 fields_of_interests:
   [
@@ -56,11 +56,9 @@ fields_of_interests:
     "Editing",
     "UI/UX",
     "Playing Games",
-   "AI Automation & Animation"
+   "AI Automation"
   ]
   
-currently_learning: ["Next JS, AI Automation, 3D Model"]
-2025 Goals: ["Create 5 Best Real world use Projects and learn at least 5 new Technologies."]
 ```
 </p>
  
