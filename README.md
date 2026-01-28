@@ -39,6 +39,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
+{
 name: Akash Pandey
 located_in: Bihar, India
 current_job: Software Developer
@@ -50,14 +51,15 @@ education:
 company: QuicHub Innovations
 
 fields_of_interests:
-  [
+  {
     "Web Development",
     "Coding",
     "Editing",
     "UI/UX",
     "Playing Games",
    "AI Automation"
-  ]
+  }
+}
   
 ```
 </p>
