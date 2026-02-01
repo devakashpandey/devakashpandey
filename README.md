@@ -41,7 +41,7 @@
 ```yaml
 {
 name: Akash Pandey
-located_in: Bihar, India
+located_in: Bengaluru, India
 current_job: Software Developer
 education:
   [
