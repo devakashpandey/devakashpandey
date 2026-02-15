@@ -137,15 +137,10 @@ fields_of_interests:
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakashpandey&layout=compact&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devakashpandey&show_icons=true&theme=radical" />
-</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devakashpandey&theme=radical" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devakashpandey&theme=radical" /></p>
+
 
 
 <p align="center">
