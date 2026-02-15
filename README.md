@@ -145,6 +145,9 @@ fields_of_interests:
   <img src="https://github-readme-stats.vercel.app/api?username=devakashpandey&show_icons=true&theme=radical" />
 </p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devakashpandey&theme=radical" />
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
