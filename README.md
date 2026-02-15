@@ -137,9 +137,13 @@ fields_of_interests:
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devakashpandey&show_icons=true&locale=en&layout=compact" alt="devakashpandey" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakashpandey&layout=compact&theme=radical" />
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devakashpandey&show_icons=true&rank_icon=github&border_radius=10" alt="devakashpandey" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devakashpandey&show_icons=true&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
