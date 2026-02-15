@@ -2,7 +2,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=devakashpandey&label=Profile%20views&color=0e75b6&style=flat" alt="devakashpandey" /> </p>
 
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
-<p align="center"> Building <a href="www.akkylabs.com" target="_akkylabs">AkkyLabs</a> </p>
+<p align="center">
+  Building <a href="https://www.akkylabs.com" target="_blank">AkkyLabs</a>
+</p>
+
 <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+Front-End+Developer;+Based+In+Bihar+India" />
 </h1>
