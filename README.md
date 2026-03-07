@@ -138,11 +138,15 @@
 
 <div align="center">
        
-[![Twitter Badge](https://img.shields.io/badge/-@AkashPandey-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devakky04)](https://twitter.com/devakky04) 
-[![Mail Badge](https://img.shields.io/badge/-CodeWithAkky-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithakkylabs) 
-[![Linkedin Badge](https://img.shields.io/badge/-Akash_Pandey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakashpandey//) 
-[![Mail Badge](https://img.shields.io/badge/-@akkylabs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/akkylabs/) 
-[![Mail Badge](https://img.shields.io/badge/-Akash_Pandey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:developerakky@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@AkashPandey-1DA1F2?style=flat&labelColor=1DA1F2&logo=X&logoColor=white)](https://twitter.com/devakky04)
+
+[![YouTube Badge](https://img.shields.io/badge/-CodeWithAkky-FF0000?style=flat&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithakkylabs)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Akash_Pandey-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakashpandey/)
+
+[![Instagram Badge](https://img.shields.io/badge/-@akkylabs-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/akkylabs/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Akash_Pandey-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:developerakky@gmail.com)
 
 </div>
 
