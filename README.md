@@ -44,24 +44,33 @@
 
 ```yaml
 {
-name: Akash Pandey
-located_in: Bengaluru, India
-current_job: Software Developer
-education:
-  [
-    "Self-Taught Developer",
-    "Bachelor's in BCA",
-  ]
-company: QuicHub Innovations
+  name: "Akash Pandey",
+  located_in: "Bengaluru, India",
+  current_role: "Software Developer",
+  company: "QuicHub Innovations",
 
-fields_of_interests:
-  {
-    "Web Development",
-    "Coding",
-    "Editing",
-    "UI/UX",
-    "Playing Games",
-   "AI Automation"
+  education: [
+    "Bachelor's in BCA",
+    "Self-Taught Developer"
+  ],
+
+  fields_of_interest: [
+    "Web & App Development",
+    "AI Automation",
+    "UI/UX Design",
+    "Coding & Problem Solving",
+    "Editing & Content Creation",
+    "Gaming"
+  ],
+  currently_learning: [
+    "Advanced System Design",
+    "AI Agents & Automation",
+    "Scalable Backend Architecture"
+  ],
+
+  contact: {
+    website: "https://akkylabs.com",
+    instagram: "@akkylabs",
   }
 }
   
