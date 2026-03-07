@@ -137,16 +137,12 @@
  <h4 align="center">:mailbox: Reach me out!</h4>
 
 <div align="center">
-       
+  
 [![Twitter Badge](https://img.shields.io/badge/-@AkashPandey-1DA1F2?style=flat&labelColor=1DA1F2&logo=X&logoColor=white)](https://twitter.com/devakky04)
-
 [![YouTube Badge](https://img.shields.io/badge/-CodeWithAkky-FF0000?style=flat&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithakkylabs)
-
 [![LinkedIn Badge](https://img.shields.io/badge/-Akash_Pandey-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakashpandey/)
-
 [![Instagram Badge](https://img.shields.io/badge/-@akkylabs-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/akkylabs/)
-
-[![Gmail Badge](https://img.shields.io/badge/-Akash_Pandey-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:developerakky@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Akash_Pandey-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:devakashpandey04@gmail.com)
 
 </div>
 
