@@ -137,7 +137,7 @@
 
 <div align="center">
   
-[![Twitter Badge](https://img.shields.io/badge/-@AkashPandey-1DA1F2?style=flat&labelColor=1DA1F2&logo=X&logoColor=white)](https://twitter.com/devakky04)
+[![Twitter Badge](https://img.shields.io/badge/-AkkyLabs-1DA1F2?style=flat&labelColor=1DA1F2&logo=X&logoColor=white)](https://twitter.com/akkylabs)
 [![YouTube Badge](https://img.shields.io/badge/-CodeWithAkky-FF0000?style=flat&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithakkylabs)
 [![LinkedIn Badge](https://img.shields.io/badge/-Akash_Pandey-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakashpandey/)
 [![Instagram Badge](https://img.shields.io/badge/-@akkylabs-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/akkylabs/)
