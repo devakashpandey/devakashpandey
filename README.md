@@ -14,7 +14,7 @@
 </h3>
 
  <h4 align="center"> 
-  👨‍💻 My Portfolio : (https://iamakashpandey.vercel.app/)
+  👨‍💻 My Portfolio : https://iamakashpandey.vercel.app
 </h4>
 
 <h4 align="center">Top Technologies</h4>
