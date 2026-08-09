@@ -10,11 +10,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+Front-End+Developer;+Based+In+Bihar+India" />
 </h1>
  -->
-<h3 align="center">A Software Developer with over 3 years of experience developing responsive and user-focused web applications, with optimized cross-browser compatibility and runtime performance. Aspiring to combine broad background with strong technical skills to excel as a Software Developer.
+<h3 align="center">A Software Engineer passionate about building scalable, high-performance web applications and seamless digital experiences with modern technologies and clean architecture. Aspiring to combine broad background with strong technical skills to excel as a Software Developer.
 </h3>
 
  <h4 align="center"> 
-  👨‍💻 My Portfolio : https://developerakashpandey.vercel.app
+  👨‍💻 My Portfolio : (https://iamakashpandey.vercel.app/)
 </h4>
 
 <h4 align="center">Top Technologies</h4>
