@@ -45,7 +45,7 @@
 {
   name: "Akash Pandey",
   located_in: "Bengaluru, India",
-  current_role: "Software Developer",
+  current_role: "Software Engineer",
   company: "QuicHub Innovations",
 
   education: [
