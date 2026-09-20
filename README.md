@@ -164,7 +164,7 @@
 <div align="center">
   
 [![Twitter Badge](https://img.shields.io/badge/-AkkyLabs-1DA1F2?style=flat&labelColor=1DA1F2&logo=X&logoColor=white)](https://twitter.com/akkylabs)
-[![YouTube Badge](https://img.shields.io/badge/-CodeWithAkky-FF0000?style=flat&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithakkylabs)
+[![YouTube Badge](https://img.shields.io/badge/-AkkyLabs-FF0000?style=flat&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/@akkylabs)
 [![LinkedIn Badge](https://img.shields.io/badge/-Akash_Pandey-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devakashpandey/)
 [![Instagram Badge](https://img.shields.io/badge/-@akkylabs-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/akkylabs/)
 [![Gmail Badge](https://img.shields.io/badge/-Akash_Pandey-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:devakashpandey04@gmail.com)
